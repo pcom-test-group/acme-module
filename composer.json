@@ -1,0 +1,6 @@
+{
+  "name": "acme/module",
+  "require": {
+    "acme/logger": "*"
+  }
+}
